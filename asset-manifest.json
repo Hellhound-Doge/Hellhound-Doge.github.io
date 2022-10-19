@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "./static/css/main.9584714b.chunk.css",
-    "main.js": "./static/js/main.e1e88aed.chunk.js",
-    "main.js.map": "./static/js/main.e1e88aed.chunk.js.map",
+    "main.js": "./static/js/main.8de28961.chunk.js",
+    "main.js.map": "./static/js/main.8de28961.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.22d8dbec.js",
     "runtime-main.js.map": "./static/js/runtime-main.22d8dbec.js.map",
-    "static/js/2.62bdcded.chunk.js": "./static/js/2.62bdcded.chunk.js",
-    "static/js/2.62bdcded.chunk.js.map": "./static/js/2.62bdcded.chunk.js.map",
+    "static/js/2.9c578b29.chunk.js": "./static/js/2.9c578b29.chunk.js",
+    "static/js/2.9c578b29.chunk.js.map": "./static/js/2.9c578b29.chunk.js.map",
     "index.html": "./index.html",
     "static/css/main.9584714b.chunk.css.map": "./static/css/main.9584714b.chunk.css.map",
-    "static/js/2.62bdcded.chunk.js.LICENSE.txt": "./static/js/2.62bdcded.chunk.js.LICENSE.txt",
+    "static/js/2.9c578b29.chunk.js.LICENSE.txt": "./static/js/2.9c578b29.chunk.js.LICENSE.txt",
     "static/media/ethereumLogo.a1b9f99b.png": "./static/media/ethereumLogo.a1b9f99b.png",
     "static/media/scythesymbol.89525cf1.png": "./static/media/scythesymbol.89525cf1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.22d8dbec.js",
-    "static/js/2.62bdcded.chunk.js",
+    "static/js/2.9c578b29.chunk.js",
     "static/css/main.9584714b.chunk.css",
-    "static/js/main.e1e88aed.chunk.js"
+    "static/js/main.8de28961.chunk.js"
   ]
 }
